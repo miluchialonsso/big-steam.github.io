@@ -1,0 +1,32 @@
+BACKLOG:
+ACT1: Investigar--- ¿Qué es la hidroponía?- Fundamentos
+
+ACT2: ¿Cómo hacer? ¿Para quien?
+
+ACT3: Organizar--- Cantidad de tareas - división de tareas- temporización
+
+ACT4: Desarrollo--- Diseño WEB - Diseño de maqueta 
+
+ACT5: ¿Qué componentes vamos a utilizar? - comparación de mercado - Compra de componentes
+
+ACT6: Conexiones de hardware 
+
+ACT7: Conexión hardware y software 
+
+ACT8: Programación/base de datos
+
+ACT9: Prueba--- Probar pagina web dentro del servidor
+
+ACT10: Probar ESP32 con sensores
+
+ACT11: Probar servidor dentro del ESP32 (De ser necesario agregar memoria a ESP32)
+
+ACT12: Redondear--- Organizar partes teóricas en grupo 
+
+ACT13: Lograr que todo ande como se lo espera 
+
+ACT14: Finalizar PowerPoint y Carpeta de Campo
+
+ACT15: Finalización--- Presentar en tiempo y forma 
+
+ACT16: Aprobar
