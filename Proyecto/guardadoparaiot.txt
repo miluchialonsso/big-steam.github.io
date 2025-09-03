@@ -1,3 +1,0 @@
-#define BLYNK_TEMPLATE_ID "TMPL2-2yYC2Nu"
-#define BLYNK_TEMPLATE_NAME "proyecto"
-#define BLYNK_AUTH_TOKEN "fO-Y7MOOQUj2emgSIR2CTuaf5h1CeiYO"
